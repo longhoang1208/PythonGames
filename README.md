@@ -19,7 +19,7 @@ python snake_game.py
 
 ## Bouncing balls game
 
-<img width="320" height="240" alt="Recording 2026-09-24 094450" src="https://github.com/user-attachments/assets/fb8f531c-e5c1-4798-b818-6594edbced41" />
+<img width="320" height="320" alt="Recording 2026-09-24 094450" src="https://github.com/user-attachments/assets/fb8f531c-e5c1-4798-b818-6594edbced41" />
 
 ### Run program:
 ```bash
