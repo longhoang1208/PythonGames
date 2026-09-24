@@ -1,6 +1,11 @@
 # [PYTHON] Mini Games
 This is the source code for my mini games in python.
 
+## Environment setup
+```bash
+pip install requirements.txt
+```
+
 ## Snake game
 
 <img width="500" alt="Recording 2026-09-23 225725" src="https://github.com/user-attachments/assets/b3605d04-dd72-4ccd-aabe-5a1a5dd822ec" />
