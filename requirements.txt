@@ -1,5 +1,2 @@
 pygame
 numpy
-opencv-python
-trimesh
-pyrender
