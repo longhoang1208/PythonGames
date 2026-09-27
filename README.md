@@ -1,5 +1,5 @@
 # [PYTHON] Mini Games
-This is the source code for my mini games in python.
+This is the source code for my mini game python programs.
 
 ## Environment setup
 ```bash
