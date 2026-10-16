@@ -8,7 +8,7 @@ pip install requirements.txt
 
 ## Snake game
 
-<img width="500" alt="Recording 2026-09-23 225725" src="https://github.com/user-attachments/assets/b3605d04-dd72-4ccd-aabe-5a1a5dd822ec" />
+<img width="500" alt="snake game" src="https://github.com/user-attachments/assets/b3605d04-dd72-4ccd-aabe-5a1a5dd822ec" />
 
 ### Run program:
 ```bash
@@ -24,7 +24,7 @@ python snake_game.py
 
 ## Bouncing balls game
 
-<img width="500" height="520" alt="Recording 2026-09-24 094450" src="https://github.com/user-attachments/assets/fb8f531c-e5c1-4798-b818-6594edbced41" />
+<img width="500" height="520" alt="bounding ball game" src="https://github.com/user-attachments/assets/fb8f531c-e5c1-4798-b818-6594edbced41" />
 
 ### Run program:
 ```bash
@@ -35,4 +35,14 @@ python bouncing_balls.py
 
 ## Tetris
 
-<img width="500" alt="Recording 2026-10-16 215818" src="https://github.com/user-attachments/assets/1164c602-f622-4e44-b34c-957a8be580e9" />
+<img width="500" alt="tetris" src="https://github.com/user-attachments/assets/1164c602-f622-4e44-b34c-957a8be580e9" />
+
+### Run program:
+```bash
+python tetris.py
+```
+
+### How to play
+- Use left and right key to move the falling block left or right.
+- Fill the grid rows to earn points.
+- Full-filled rows will be clear.
