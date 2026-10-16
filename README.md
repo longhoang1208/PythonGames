@@ -30,3 +30,9 @@ python snake_game.py
 ```bash
 python bouncing_balls.py
 ```
+
+---
+
+## Tetris
+
+<img width="500" alt="Recording 2026-10-16 215818" src="https://github.com/user-attachments/assets/1164c602-f622-4e44-b34c-957a8be580e9" />
